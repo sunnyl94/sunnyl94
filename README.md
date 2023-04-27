@@ -19,22 +19,22 @@ Here are some ideas to get you started:
 1. [NYC Taxi Demand ✨](https://github.com/sunnyl94/NYC_Taxi_Demand)
 - 소개: Random Forest Regressor 모델을 이용해 뉴욕 택시 수요 예측 및 시각화
 
-2. Fabric Image Classification AITEX
+2. [Fabric Image Classification AITEX](https://github.com/sunnyl94/Fabric_Image_Classification_AITEX)
 - 소개: Inception 모델을 이용해 의류 직물 불량 검출을 위한 이미지 분석
 
-3. KOR US Exchange Rate Prediction
+3. [KOR US Exchange Rate Prediction](https://github.com/sunnyl94/KOR_US_Exchange_Rate_Prediction)
 - 소개: 한미환율 시계열 데이터 분석과 ARIMA 모델을 이용한 환율 예측
 
 ■ Data Analysis
-1. [Retail Case Study ✨]()
+1. [Retail Case Study ✨](https://github.com/sunnyl94/Data-Analysis-Folder/blob/main/Retail_Case_Study.ipynb)
 - 소개: 마케팅 고객 데이터에 대한 통계적, 퍼널, 코호트, RFM 분석
 
-2. AB Test (Mobile Game)
+2. [AB Test (Mobile Game)](https://github.com/sunnyl94/Data-Analysis-Folder/blob/main/AB_Test%20(Mobile%20Game).ipynb)
 - 소개: 모바일 게임 Retention을 늘리기 위한 A/B Test 및 통계적 분석
 
-3. Bike Sharing Demand EDA
+3. [Bike Sharing Demand EDA](https://github.com/sunnyl94/Data-Analysis-Folder/blob/main/bike-sharing-demand-eda.ipynb)
 - 소개: 바이크 수요량 탐색적 데이터 분석
 
-4. Marketing Analysis EDA
+4. [Marketing Analysis EDA](https://github.com/sunnyl94/Data-Analysis-Folder/blob/main/marketing-analysis-eda.ipynb)
 - 소개: 마케팅 고객 데이터 탐색적 데이터 분석
 
