@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+저의 머신러닝과 데이터 분석 프로젝트입니다!\
+<br />
+
 <!--
 **sunnyl94/sunnyl94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
