@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 소개: 한미환율 시계열 데이터 분석과 ARIMA 모델을 이용한 환율 예측
 
 ■ Data Analysis
-1. [Retail Case Study ✨](https://github.com/sunnyl94/Data-Analysis-Folder/blob/main/Retail_Case_Study.ipynb)
+1. [Retail Case Study ✨](https://github.com/sunnyl94/Retail-Case-Study)
 - 소개: 마케팅 고객 데이터에 대한 통계적, 퍼널, 코호트, RFM 분석
 
 2. [AB Test (Mobile Game)](https://github.com/sunnyl94/Data-Analysis-Folder/blob/main/AB_Test%20(Mobile%20Game).ipynb)
