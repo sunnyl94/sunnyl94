@@ -41,3 +41,7 @@ Here are some ideas to get you started:
 4. [Marketing Analysis EDA](https://github.com/sunnyl94/Data-Analysis-Folder/blob/main/marketing-analysis-eda.ipynb)
 - 소개: 마케팅 고객 데이터 탐색적 데이터 분석
 
+■ Software Development
+1. [앱스토어 마켓 리뷰 웹 서비스](https://github.com/sunnyl94/App-Market-Review)
+- 소개: Google Play Store와 Apple App Store에 올라와 있는 앱 리뷰를 한눈에 볼 수 있고 기업과 개발자가 필요로 하는 내용을 분석 및 제공
+
